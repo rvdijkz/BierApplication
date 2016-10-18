@@ -1,1 +1,2 @@
 #bier app
+test cassandra
