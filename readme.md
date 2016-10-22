@@ -1,2 +1,2 @@
-#bier app
+#bier application
 test cassandra
